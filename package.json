@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esprima": "^4.0.1"
+    "esprima": "^4.0.1",
+    "estraverse": "^5.2.0"
   }
 }
